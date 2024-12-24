@@ -4,12 +4,15 @@
 **Professor:** Ching-Yung Lin  
 **Team 21:** Dan Harvey dyh2111@columbia.edu, Ishraq Khan imk2133@columbia.edu , Berk Yilmaz by2385@columbia.edu
 
+YOUTUBE LINK : https://www.youtube.com/watch?v=JE6LPMlDUJM&list=LL&index=2&t=2s
 ---
 
 ## **Project Overview**  
 
 **Goal**  
 To empower healthcare providers with a fast, reliable, and cutting-edge tool to deliver optimal treatment options. PharMe is designed to help you feel your best as quickly and safely as possible.  
+
+
 
 **What is PharMe?**  
 PharMe is an innovative, ML-driven solution built for healthcare providers. It leverages Large Language Models (LLMs) and integrates:  
